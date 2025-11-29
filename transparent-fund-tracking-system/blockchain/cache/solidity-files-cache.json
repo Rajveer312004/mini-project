@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\lt22c\\OneDrive\\Desktop\\mini_project\\transparent-fund-tracking-system\\blockchain\\contracts\\FundTracker.sol": {
+      "lastModificationDate": 1761599915793,
+      "contentHash": "cb61090dcf3d3b91947bb0be74747d01",
+      "sourceName": "contracts/FundTracker.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "FundTracker"
+      ]
+    }
+  }
+}
